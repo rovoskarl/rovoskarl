@@ -8,3 +8,4 @@
     width="200px"
   />
 </a>
+[![An image of @rovoskarl's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rovoskarl)](https://holopin.io/@rovoskarl)
